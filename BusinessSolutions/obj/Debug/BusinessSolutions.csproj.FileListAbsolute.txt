@@ -1,0 +1,8 @@
+G:\My Drive\CIT\Projects\Console\BusinessSolutions\bin\Debug\BusinessSolutions.exe.config
+G:\My Drive\CIT\Projects\Console\BusinessSolutions\bin\Debug\BusinessSolutions.exe
+G:\My Drive\CIT\Projects\Console\BusinessSolutions\bin\Debug\BusinessSolutions.pdb
+G:\My Drive\CIT\Projects\Console\BusinessSolutions\obj\Debug\BusinessSolutions.csproj.AssemblyReference.cache
+G:\My Drive\CIT\Projects\Console\BusinessSolutions\obj\Debug\BusinessSolutions.csproj.CoreCompileInputs.cache
+G:\My Drive\CIT\Projects\Console\BusinessSolutions\obj\Debug\BusinessSolutions.exe
+G:\My Drive\CIT\Projects\Console\BusinessSolutions\obj\Debug\BusinessSolutions.pdb
+G:\My Drive\CIT\Projects\Console\BusinessSolutions\obj\Debug\BusinessSolutions.exe.config
